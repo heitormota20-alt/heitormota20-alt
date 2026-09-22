@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Heitor+Mota)](https://git.io/typing-svg)
-
 Sou de São Bernardo do Campo, SP. Trabalho como Designer Gráfico (Pleno) na Nova Dimensão Digital, onde desenvolvo landing pages e páginas de alta conversão para clientes de diferentes nichos. Meu diferencial é unir o olhar artístico — construção de identidade visual, hierarquia, storytelling visual — com a execução técnica em HTML/CSS/JS, usando IA generativa (imagem, vídeo e código) pra acelerar a produção sem abrir mão de peças bem-acabadas e alinhadas à marca.
 
 **`Designer & Creative Developer`**
